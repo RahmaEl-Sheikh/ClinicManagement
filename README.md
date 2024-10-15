@@ -25,4 +25,4 @@ There is no password. The system allows the following features:
 1. View patient record.
 By entering the patient ID, the system shall show the basic information for the patient.
 2. View today’s reservations.
-In this view, the system shall print all reservations with the patient ID attached to each reservation slot.
+In this view, the system shall print all reservations with the patient ID attached to each reservation slot
